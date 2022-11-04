@@ -6,3 +6,5 @@ xpack.license.self_generated.type: basic
 
 # Monitoring
 xpack.monitoring.collection.enabled: true
+
+xpack.security.enabled: false
